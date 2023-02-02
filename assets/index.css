@@ -1,0 +1,40 @@
+body{
+    background-color:#f9e9d5;
+ }
+header{
+    background-color: #e0b681;
+}
+div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.mainSeccion{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width: 70vw;
+    height: 80vh;
+}
+input{
+    margin: 10px;
+    width: 100%;
+    align-self: center;
+}
+label{
+    align-self: center;
+}
+span{
+    font-size: xx-large;
+}
+.btn{
+    margin: 10px;
+    background-color:#d96e18 ;
+    width: 80%;
+    align-self: center;
+}
+
+#txtToFind{
+ color: blue;   
+}
